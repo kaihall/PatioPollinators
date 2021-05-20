@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\AllSkyFree\AllSkyFree_Menu.cs" />
+    <Compile Include="Assets\Scripts\DayEnder.cs" />
     <Compile Include="Assets\Scripts\Fader.cs" />
     <Compile Include="Assets\Scripts\GazeOverEvent.cs" />
     <Compile Include="Assets\Scripts\MouseCameraControl.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="Assets\Scripts\SceneFader.cs" />
     <Compile Include="Assets\Scripts\SetMaterial.cs" />
     <Compile Include="Assets\Scripts\SimpleGrabSystem.cs" />
+    <Compile Include="Assets\Scripts\TutorialManager.cs" />
     <Compile Include="Assets\Scripts\XRInputManager.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />

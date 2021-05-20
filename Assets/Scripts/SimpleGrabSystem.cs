@@ -92,6 +92,9 @@ public class SimpleGrabSystem : MonoBehaviour
     /// <param name="item">Item.</param>
     public void DropItem()
     {
+        if (pickedItem == null)
+            return;
+
         // Remove parent
         pickedItem.transform.SetParent(null);
 

@@ -117,6 +117,21 @@ public class PlantInteractor : MonoBehaviour
                 transform.Find("milkweed_preflower2").gameObject.SetActive(false);
                 transform.Find("milkweed_adult").gameObject.SetActive(true);
             }
+            else if (stage.Equals("adult"))
+            {
+                stage = "adult1";
+                transform.Find("butterfly1").gameObject.SetActive(true);
+            }
+            else if (stage.Equals("adult1"))
+            {
+                stage = "adult2";
+                transform.Find("butterfly2").gameObject.SetActive(true);
+            }
+            else if (stage.Equals("adult2"))
+            {
+                stage = "adult3";
+                transform.Find("butterfly3").gameObject.SetActive(true);
+            }
         }
 
         watered = false;
