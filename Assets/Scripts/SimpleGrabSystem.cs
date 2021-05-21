@@ -1,4 +1,5 @@
-﻿// Code courtesy of Patryck Galach (https://bitbucket.org/gaello/grab-system/src/master/)
+﻿// Code by Patryck Galach (https://bitbucket.org/gaello/grab-system/src/master/)
+// Edited for VR and Google Cardboard by Kai Hall.
 
 using UnityEngine;
 
@@ -17,6 +18,8 @@ public class SimpleGrabSystem : MonoBehaviour
 
     // Reference to the currently held item.
     private PickableItem pickedItem;
+
+    // Previously ran code to detect object activation. Commented out in favor of GazeOverEvent interactions.
 
     /// <summary>
     /// Method called very frame.
@@ -89,7 +92,6 @@ public class SimpleGrabSystem : MonoBehaviour
     /// <summary>
     /// Method for dropping item.
     /// </summary>
-    /// <param name="item">Item.</param>
     public void DropItem()
     {
         if (pickedItem == null)
@@ -112,6 +114,7 @@ public class SimpleGrabSystem : MonoBehaviour
         pickedItem = null;
     }
 
+    // Returns the name of the held item, or an empty string if there is none
     public string PickedItemName() {
         if (pickedItem == null)
             return "";

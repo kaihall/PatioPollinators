@@ -1,0 +1,18 @@
+--- FONTS ---
+Title Font: "Bunch Blossoms" by Billy Argle. *free for PERSONAL USE ONLY*
+
+--- MATERIALS ---
+Floor Material: "Block_Pavers" from "Texture Pack Bricks 'n Blocks" by GlowFox Games on the Asset Store.
+Wall Material: "Brick_Cobble_withgrout" from "Texture Pack Bricks 'n Blocks" by GlowFox Games on the Asset Store.
+
+--- MODELS ---
+Butterfly Model: "Monarch Butterfly" (https://skfb.ly/on6yB) by dudecon is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+Door Model: From "Door Free Pack Aferar" by Andrey Ferar on the Asset Store.
+Flower Pot Model: "PBR Floweringpot 01" by VIS Games on the Asset Store.
+Milkweed Model (adult): "Butterfly Milkweed (Asclepias tuberosa)" by dustind (https://3dwarehouse.sketchup.com/model/caa2a63f9310dad22f9b57f43fb2464e/Butterfly-Milkweed-Asclepias-tuberosa). Other models edited from this version in Blender.
+Table Model: From "Voxel Wooden Funiture" by Wurfelkunst on the Asset Store.
+Trowel Model: "Lowpoly Garden Toolset 1" (https://skfb.ly/6WQQG) by vikramgd is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+Watering Can Model: From "Garden Realistic Tools" by GBAndrewGB on the Asset Store.
+
+--- SKYBOX ---
+Main Scene: From "AllSky Free" by Richard Whitelock on the Asset Store.

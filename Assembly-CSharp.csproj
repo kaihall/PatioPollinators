@@ -64,7 +64,6 @@
   <ItemGroup>
     <Compile Include="Assets\AllSkyFree\AllSkyFree_Menu.cs" />
     <Compile Include="Assets\Scripts\DayEnder.cs" />
-    <Compile Include="Assets\Scripts\Fader.cs" />
     <Compile Include="Assets\Scripts\GazeOverEvent.cs" />
     <Compile Include="Assets\Scripts\MouseCameraControl.cs" />
     <Compile Include="Assets\Scripts\ObjectFadinator.cs" />

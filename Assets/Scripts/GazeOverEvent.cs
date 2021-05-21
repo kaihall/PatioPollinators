@@ -1,4 +1,4 @@
-﻿// By Hunt Sparra. Raycasting added by Kai Hall.
+﻿// Code by Hunt Sparra. Raycasting added by Kai Hall (unused in project).
 
 using System.Collections;
 using System.Collections.Generic;
