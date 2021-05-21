@@ -21,7 +21,7 @@ public class TutorialManager : MonoBehaviour
     public List<PlantInteractor> plants;
 
     // Current tutorial stage
-    internal int stage = 0;
+    public int stage = 0;
     
     // Update is called once per frame
     void Update()
